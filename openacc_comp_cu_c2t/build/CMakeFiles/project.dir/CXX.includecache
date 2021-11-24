@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yf-wu/openacc_comp_cu_c2t/main_acc.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+stdbool.h
+-
+time.h
+-
+omp.h
+-
+

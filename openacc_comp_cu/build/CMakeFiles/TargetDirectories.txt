@@ -1,0 +1,6 @@
+/home/yf-wu/openacc_comp_cu/build/CMakeFiles/rebuild_cache.dir
+/home/yf-wu/openacc_comp_cu/build/CMakeFiles/project.dir
+/home/yf-wu/openacc_comp_cu/build/CMakeFiles/edit_cache.dir
+/home/yf-wu/openacc_comp_cu/build/cuda/CMakeFiles/rebuild_cache.dir
+/home/yf-wu/openacc_comp_cu/build/cuda/CMakeFiles/gpu.dir
+/home/yf-wu/openacc_comp_cu/build/cuda/CMakeFiles/edit_cache.dir

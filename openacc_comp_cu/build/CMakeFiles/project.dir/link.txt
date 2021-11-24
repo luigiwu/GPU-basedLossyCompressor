@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp    -rdynamic CMakeFiles/project.dir/main_acc.cpp.o  -o project -Wl,-rpath,/home/yf-wu/openacc_comp_cu/build/cuda cuda/libgpu.so /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 
